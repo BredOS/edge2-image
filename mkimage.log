@@ -1,0 +1,17 @@
+22:06:31 INFO: Initializing mkimage
+22:06:31 INFO:              Architecture:   aarch64
+22:06:31 INFO:                   Edition:   
+22:06:31 INFO:                   Version:   2023-06-10
+22:06:31 INFO:         Working directory:   /home/panda/BredOS/mkimage/work/
+22:06:31 INFO:    Installation directory:   /home/panda/BredOS/mkimage/work/aarch64
+22:06:31 INFO:                Build date:   2023-06-10
+22:06:31 INFO:          Output directory:   /home/panda/BredOS/mkimage/out/
+22:06:31 INFO:                    Device:   edge2
+22:06:31 INFO:                Filesystem:   ext4
+22:06:31 INFO:                Image type:   image
+22:06:31 INFO:           Image file name:   BredOS-ARM-edge2-2023-06-10
+22:06:31 INFO:             Packages File:   /home/panda/BredOS/images/edge2-image/packages.aarch64
+22:06:31 INFO: Compressing BredOS-ARM-edge2-2023-06-10.img
+22:15:57 INFO: Compressed BredOS-ARM-edge2-2023-06-10.img
+22:15:57 INFO: Cleaning up
+22:16:08 INFO: Total time taken: 00:09:37
